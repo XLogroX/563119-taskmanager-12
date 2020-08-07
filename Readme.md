@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Денис Кунин](https://up.htmlacademy.ru/ecmascript/12/user/563119).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Коршунов](https://up.htmlacademy.ru/ecmascript/12/user/83596).
 
 ---
 
